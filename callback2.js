@@ -1,7 +1,7 @@
 function assignGrade(percentage) {
     let grade;
     if (percentage >= 90) {
-        grade = 'A+';
+        grade = 'S';
     } else if (percentage >= 80) {
         grade = 'A';
     } else if (percentage >= 70) {
